@@ -13,12 +13,12 @@ on:
         type: string
       decrypted_youtube_url:
         description: "The direct URL to the decrypted YouTube ipa"
-        default: ""
+        default: "https://drive.google.com/file/d/1giLXBsXX1Pnn-wduSTSSb3_FxdcxpJOC"
         required: true
         type: string
       youtube_version:
         description: "The version of YouTube"
-        default: ""
+        default: "18.27.3"
         required: true
         type: string
       bundle_id:
